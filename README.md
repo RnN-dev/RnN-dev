@@ -1,4 +1,4 @@
-# Olá bem vindo
+# Olá, bem vindo
 
 Eu me chamo Renan, faço o curso Técnico em Informática para Internet no SENAI e estudo desenvolvimento web full-stack. Além disso, também tenho algumas habilidades com C++ e C#. Nos meus projetos, tenho usado bastante JavaScript, TypeScript, React, Next.js e Node.js.
 
