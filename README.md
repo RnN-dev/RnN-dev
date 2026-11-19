@@ -1,3 +1,5 @@
+<img width="640" height="180" alt="code-editor" src="https://github.com/user-attachments/assets/8642885a-dfb6-40b4-bf70-890ebedcb2d7" />
+<img width="640" height="180" alt="matrix-coding" src="https://github.com/user-attachments/assets/d8a52018-ff60-42ac-88b2-1913d79b9b2d" />
 # Olá, bem vindo
 
 ![Animação de código](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=35C9A6&center=true&vCenter=true&width=600&lines=console.log(%22Oi%2C+eu+sou+Renan%22)%3BEstudando+JavaScript%2C+React+e+Node.js)
